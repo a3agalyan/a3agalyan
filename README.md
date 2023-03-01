@@ -1,5 +1,5 @@
 <h3>Hello there 👋, I'm Armen</h3>
-<h4>A data scientist from Pasadena.</h3>
+<h4>A data scientist located in Pasadena.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3agalyan&label=Profile%20views&color=0e75b6&style=flat" alt="a3agalyan" /> </p>
 
