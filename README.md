@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3agalyan&label=Profile%20views&color=0e75b6&style=flat" alt="a3agalyan" /> </p>
 
-- 🔭 I’m currently working on my private **Esports betting bot**, and [hltv-stats](https://github.com/a3agalyan/hltv-stats) parser is a part of it.
+- 🔭 I’m currently working on my pet-project **Esports betting bot**, and [hltv-stats](https://github.com/a3agalyan/hltv-stats) parser is a part of it.
 
 - 👯 I would appreciate any feedback on my [Data Analytics project](https://github.com/a3agalyan/car-sharing-analysis)
 <h3 align="left">Connect with me:</h3>
