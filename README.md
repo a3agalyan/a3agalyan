@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3agalyan&label=Profile%20views&color=0e75b6&style=flat" alt="a3agalyan" /> </p>
 
-- 🔭 I’m currently working on my private **Esports betting bot**, and [https://github.com/a3agalyan/hltv-stats] (https://github.com/a3agalyan/hltv-stats) is a part of it.
+- 🔭 I’m currently working on my private **Esports betting bot**, and [hltv-stats](https://github.com/a3agalyan/hltv-stats) parser is a part of it.
 
-- 👯 I would appreciate any feedback on my Data Analysis project [https://github.com/a3agalyan/car-sharing-analysis](https://github.com/a3agalyan/car-sharing-analysis)
-
+- 👯 I would appreciate any feedback on my Data Analysis project [Data Analysis project](https://github.com/a3agalyan/car-sharing-analysis)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/armen-agalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armen-agalyan" height="30" width="40" /></a>
