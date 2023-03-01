@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm Armen</h1>
-<h3 align="center">A data scientist from Pasadena.</h3>
+<h3>Hello there 👋, I'm Armen</h3>
+<h4>A data scientist from Pasadena.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3agalyan&label=Profile%20views&color=0e75b6&style=flat" alt="a3agalyan" /> </p>
 
-- 🔭 I’m currently working on my private **Esports betting bot**
+- 🔭 I’m currently working on my private **Esports betting bot**, and [https://github.com/a3agalyan/hltv-stats] (https://github.com/a3agalyan/hltv-stats) is a part of it.
 
 - 👯 I would appreciate any feedback on my Data Analysis project [https://github.com/a3agalyan/car-sharing-analysis](https://github.com/a3agalyan/car-sharing-analysis)
 
