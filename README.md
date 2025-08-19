@@ -1,11 +1,14 @@
-<h3>Hello there 👋, I'm Armen</h3>
-<h4>A data scientist located in Pasadena.</h3>
+<h3 align="center">Hello there 👋, I'm Armen</h3>
+
+<h4 align="center">
+  🧮 Mathematician &nbsp;|&nbsp; 🤖 Machine Learning Engineer &nbsp;|&nbsp; 🛠️ Builder of Cool Stuff <br/>
+  🌴 Living in Pasadena
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3agalyan&label=Profile%20views&color=0e75b6&style=flat" alt="a3agalyan" /> </p>
 
-- 🔭 I’m currently working on my pet-project **Esports betting bot**, and [hltv-stats](https://github.com/a3agalyan/hltv-stats) parser is a part of it.
+- 🔭 Beyond my professional work, I enjoy working with tools like **Playwright** and **Selenium** to automate data collection for my side projects. A recent favorite is a sports betting bot that scrapes HLTV.org asynchronously and explores profitable betting strategies, and [hltv-stats](https://github.com/a3agalyan/hltv-stats) parser is a part of it. Reach out — always happy to chat!
 
-- 👯 I would appreciate any feedback on my [Data Analytics project](https://github.com/a3agalyan/car-sharing-analysis)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/armen-agalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armen-agalyan" height="30" width="40" /></a>
